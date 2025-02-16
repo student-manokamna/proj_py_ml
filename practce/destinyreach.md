@@ -15,3 +15,5 @@ https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freebor
 ![alt text](image-2.png)
 <!-- hurdle 4 with variable movement
  -->
+
+ <!--  lec-11 and 13 kr lena -->

@@ -49,4 +49,7 @@ else:  # as it is when we move right or tyoe anything then game over message wil
 
 
 
-
+'''
+# ![alt text](image.png)
+# <!--  the above image is of treasure island project flowchart -->
+'''

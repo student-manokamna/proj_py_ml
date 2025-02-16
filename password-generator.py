@@ -36,6 +36,7 @@ for char in range(0,tot_symbols):
     password_list.append(random.choice(symbols))
 
 random.shuffle(password_list)
+#  it is like ["a","1","%","&","3","b","c"] now to convert it into string we have to one variable na add that in it
 password = ""
 for char in password_list:
     password+=char
